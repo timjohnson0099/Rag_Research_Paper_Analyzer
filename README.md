@@ -2,7 +2,7 @@
 
 A containerized Streamlit app that analyzes research papers and generates answers to queries using vector embeddings and a Retrieval-Augmented Generation (RAG) model.
 
-## Key Features
+## Key Feature
 
 - **PDF Upload & Processing**: Easily upload PDF research papers for analysis.
 - **Document Chunking**: Splits documents into manageable chunks and stores them in a Chroma vector database.
